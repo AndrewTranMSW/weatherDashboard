@@ -1,3 +1,16 @@
+/* This goes in all the CSS */
 * {
-    background-color: aqua;
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+.jumbotron {
+    background: #2A5CC2;
+    color: #f0b445
+}
+
+.hide {
+    display: none;
 }
